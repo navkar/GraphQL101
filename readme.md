@@ -7,7 +7,7 @@
 
 | Page 1|
 | --- |
-| ![Slider Menu](Screenshots/postman.jpg?raw=true ) |
+| ![postman](screenshots/postman.PNG?raw=true ) |
 
 ## URL
 
